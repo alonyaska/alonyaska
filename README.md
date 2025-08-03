@@ -4,7 +4,7 @@
 🤝 I’m open to collaborating on open-source backend tools or analytics systems.  
 📫 How to reach me: tg: @alonyaska | email: soon 😉  
 😄 Pronouns: he/him  
-⚡ Fun fact: I debug code like Sherlock solves crimes — with tea and deep focus.
+
 
 
 <!---
