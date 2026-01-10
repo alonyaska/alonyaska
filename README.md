@@ -28,11 +28,16 @@
 
 ---
 
-### 📊 Статистика профиля
+
+### 📊 Активность и Статистика
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alonyaska&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alonyaska&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Langs" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=alonyaska&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="alonyaska's GitHub stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alonyaska&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="150" />
 </p>
+
+### 🐍 GitHub Snake
+![Snake animation](https://github.com/alonyaska/alonyaska/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 ### 📫 Контакты:
