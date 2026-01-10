@@ -17,8 +17,8 @@
 
 ### 🛠 Стек технологий
 
-**Backend & Core**
-[![My Skills](https://skillicons.dev/icons?i=py,go,fastapi)](https://skillicons.dev)
+**Backend & Core** [![My Skills](https://skillicons.dev/icons?i=py,go,fastapi)](https://skillicons.dev)
+
 
 **Базы данных & Инфраструктура**
 [![My Skills](https://skillicons.dev/icons?i=postgres,redis,docker,linux)](https://skillicons.dev)
