@@ -30,8 +30,8 @@
 
 ### 📊 Статистика профиля
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alonyaska&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alonyaska&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="150" />
 </p>
 
 ---
