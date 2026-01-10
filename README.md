@@ -21,10 +21,10 @@
 [![My Skills](https://skillicons.dev/icons?i=py,go,fastapi)](https://skillicons.dev)
 
 **Базы данных & Инфраструктура**
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,linux,celery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,redis,docker,linux)](https://skillicons.dev)
 
 **Инструменты разработки**
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,pycharm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,pycharm,stackoverflow)](https://skillicons.dev)
 
 ---
 
