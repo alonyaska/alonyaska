@@ -22,7 +22,7 @@
 
 
 **Базы данных & Инфраструктура**
-[![My Skills](https://skillicons.dev/icons?i=postgres,redis,docker,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,redis,docker,linux,celery)](https://skillicons.dev)
 
 **Инструменты разработки**
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,pycharm,stackoverflow)](https://skillicons.dev)
