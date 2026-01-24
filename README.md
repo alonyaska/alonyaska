@@ -28,8 +28,16 @@
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,pycharm,stackoverflow)](https://skillicons.dev)
 
 ---
+### 🚀 Проекты
 
+* **[Skins-Marketplace](https://github.com/alonyaska/skins-marketplace)** — Маркетплейс игровых скинов. 
+    * *Стек:* Python (FastAPI), PostgreSQL, Redis, Celery, Docker.
+    * Реализовал архитектуру базы данных, работу с очередями и контейнеризацию приложения.
 
+* **[FastCut](https://github.com/alonyaska/FastCut)** — Сервис для сокращения ссылок и управления контентом.
+    * *Стек:* Python (FastAPI),Redis, Docker.
+    * Сфокусировался на асинхронности и высокой скорости обработки запросов.
+---
 ### 🐍 GitHub Snake
 ![Snake animation](https://github.com/alonyaska/alonyaska/blob/output/github-contribution-grid-snake.svg)
 
