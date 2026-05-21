@@ -64,10 +64,9 @@
 
 ### 📊 Статистика профиля
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alonyaska&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alonyaska&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%"/>
-</p>
+| Моя статистика | Используемые языки |
+| :---: | :---: |
+| ![](https://github-readme-stats.vercel.app/api?username=alonyaska&show_icons=true&theme=radical) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alonyaska&layout=compact&theme=radical) |
 
 ---
 
