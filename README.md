@@ -23,7 +23,7 @@
   <tr>
     <td align="left" valign="top" width="50%">
       <h4>💻 Языки и Фреймворки</h4>
-      <img src="https://skillicons.dev/icons?i=py,go,fastapi" />
+      <img src="https://skillicons.dev/icons?i=py,go,rust,fastapi" />
     </td>
     <td align="left" valign="top" width="50%">
       <h4>📊 Базы данных и Кэш</h4>
