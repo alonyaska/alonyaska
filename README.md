@@ -33,7 +33,7 @@
   <tr>
     <td align="left" valign="top" width="50%">
       <h4>🛠 Инфраструктура и Инструменты</h4>
-      <img src="https://skillicons.dev/icons?i=docker,linux,celery,claude" />
+      <img src="https://skillicons.dev/icons?i=docker,linux,celery,ai" />
     </td>
     <td align="left" valign="top" width="50%">
       <h4>🔧 Окружение разработки</h4>
